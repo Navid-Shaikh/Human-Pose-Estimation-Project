@@ -1,10 +1,6 @@
 # Real-Time Human Pose Estimation with MediaPipe
 
-https://github.com/user-attachments/assets/your-video-asset-id
-<!-- Replace the above line with the actual GitHub video embed link after uploading (instructions below) -->
-
-<video src="demo.mp4" controls></video>
-<!-- Alternative if direct video doesn't preview well: Use the GitHub asset link above -->
+![Demo Video] : https://github.com/Navid-Shaikh/Human-Pose-Estimation-Project/blob/main/demo.mp4
 
 A real-time human pose estimation project built using **MediaPipe** and **OpenCV**. Detects 33 key body landmarks from your webcam, draws a smooth skeleton overlay, and runs in **full-screen mode** for an immersive demo.
 
